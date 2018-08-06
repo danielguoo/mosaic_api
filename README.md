@@ -1,1 +1,1 @@
-Backend Django API for Mosaic
+Backend Django API for Mosaic.
